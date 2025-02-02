@@ -1,0 +1,12 @@
+github-actions-demo.yml
+ame: GitActionAssign
+on:
+  push:
+    branches:
+      - main
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 21f3002724@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
