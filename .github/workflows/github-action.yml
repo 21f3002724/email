@@ -1,4 +1,4 @@
-github-actions-demo.yml
+github-actions.yml
 ame: GitActionAssign
 on:
   push:
