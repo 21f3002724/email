@@ -1,5 +1,4 @@
-github-actions.yml
-ame: GitActionAssign
+name: GitActionAssign
 on:
   push:
     branches:
